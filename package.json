@@ -1,0 +1,17 @@
+{
+  "name": "react-native-touchbar",
+  "version": "1.0.0",
+  "description": "NSTouchBar wrapper for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "touchbar",
+    "macos",
+    "courage"
+  ],
+  "author": "Dmitriy Loktev",
+  "license": "ISC"
+}
