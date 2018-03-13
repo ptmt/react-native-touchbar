@@ -7,7 +7,7 @@
 //
 #import <Cocoa/Cocoa.h>
 #import "NSView+React.h"
-#import "RCTEventDispatcher.h"
+#import "React/RCTEventDispatcher.h"
 
 @interface NSWindow (Touchbar) <NSTouchBarDelegate>
 @property (strong, nonatomic) NSCustomTouchBarItem *customViewItem;
